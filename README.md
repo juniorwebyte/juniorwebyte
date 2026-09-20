@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Olá, eu sou o Júnior Alves 👋
-### **Founder & Full Stack Developer** | **Web3 & Blockchain Builder**
+### **Founder & Full Stack Developer** | **SaaS, Fintech & Web3 Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/júnior-alves-162161208)
 [![Website](https://img.shields.io/badge/WebyteHub-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webytehub.com)
@@ -26,20 +26,45 @@ Here are some ideas to get you started:
 
 <br />
 
-> *"Construindo soluções escaláveis, ecossistemas de pagamentos e infraestrutura descentralizada de alta performance."*
+> *"Construindo soluções escaláveis, plataformas de gestão comercial, ecossistemas de pagamentos e arquiteturas modernas de alta performance."*
 
 </div>
 
 ---
 
+### 🏢 Ecossistemas, Marcas & Integrações
+
+<div align="center">
+
+[![iFood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.ifood.com.br)
+&nbsp;
+[![EBANX](https://img.shields.io/badge/EBANX-0052FF?style=for-the-badge&logo=safepay&logoColor=white)](https://www.ebanx.com)
+&nbsp;
+[![Drop](https://img.shields.io/badge/Drop-FF7A00?style=for-the-badge&logo=pocket&logoColor=white)](#-projetos-em-destaque)
+&nbsp;
+[![Webyte](https://img.shields.io/badge/Webyte-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://webytehub.com)
+
+</div>
+
+> 💡 *Se você tiver as imagens das logos hospedadas no seu repositório (ex.: na pasta `.github/assets/` ou `assets/`), você também pode exibi-las em imagem direta:*
+>
+> ```html
+> <p align="center">
+>   <img src="./assets/drop-logo.png" height="42" alt="Drop Logo" /> &nbsp;&nbsp;&nbsp;
+>   <img src="./assets/webyte-logo.png" height="42" alt="Webyte Logo" />
+> </p>
+> ```
+
+---
+
 ### 🚀 Sobre Mim
 
-Sou fundador e desenvolvedor Full Stack com ampla experiência na criação de soluções digitais ponta a ponta. Atualmente, lidero a arquitetura e desenvolvimento da **WebytePay** e produtos voltados ao ecossistema Web3 e DeFi.
+Sou fundador e desenvolvedor Full Stack com foco no desenvolvimento de sistemas robustos, plataformas SaaS para o varejo e produtos digitais ponta a ponta.
 
-- 💡 **Fundador na WebyteHub & WebytePay:** Plataforma e gateway de pagamentos inteligente com suporte a Pix, Cartão e Criptoativos.
-- ⛓️ **Especialista em Blockchain:** Desenvolvedor de smart contracts, tokens e infraestrutura descentralizada (**PloutosLedger**, **STREET DOG COIN**, **ANIRES**, **USDT.Z**).
-- 🛠️ **Foco de Engenharia:** APIs resilientes, microserviços escaláveis, segurança em transações financeiras e UI/UX orientada à conversão.
-- 🎓 **Inovação Contínua:** Pesquisador contínuo em sistemas distribuídos e fintechs.
+- 💼 **Gestão Comercial & CRM (Ecossistema Drop):** Desenvolvedor do **PloutosLedger**, plataforma modular de gestão e fechamento de caixa, PDV e agentes inteligentes para o comércio.
+- 💡 **Fundador na WebyteHub & WebytePay:** Solução e gateway de pagamentos com liquidação em tempo real (Pix, Cartão e Criptomoedas).
+- ⛓️ **Blockchain & Web3:** Smart contracts, tokens e infraestrutura descentralizada (**STREET DOG COIN**, **ANIRES**, **USDT.Z**).
+- 🛠️ **Engenharia & Integrações:** Conexões com ecossistemas de delivery, pagamentos e conciliação financeira de alta performance.
 
 ---
 
@@ -63,12 +88,11 @@ Sou fundador e desenvolvedor Full Stack com ampla experiência na criação de s
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Infraestrutura, DevOps & Web3**
+#### **Infraestrutura, DevOps & Banco de Dados**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -79,10 +103,10 @@ Sou fundador e desenvolvedor Full Stack com ampla experiência na criação de s
 
 | Projeto | Descrição | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **WebytePay** | Gateway moderno de pagamentos (Pix instantâneo, Cartão e Criptomoedas) com liquidação ágil e conciliação em tempo real. | `PHP` `Laravel` `TypeScript` `Web3` | Em Produção |
-| **PloutosLedger** | Ledger e infraestrutura blockchain com foco em rastreabilidade de ativos e estabilidade financeira descentralizada. | `Solidity` `TypeScript` `Node.js` | Ativo |
-| **Lynxite** | Robô/Agente de automação inteligente voltado à produtividade e monitoramento em tempo real. | `PHP` `TypeScript` `API REST` | Ativo |
-| **Street Dog Coin** | Iniciativa cripto orientada a impacto social, transparência e engajamento comunitário na Web3. | `Smart Contracts` `DeFi` | Ativo |
+| **PloutosLedger** | Sistema CRM e gestão financeira comercial (Ecossistema Drop) com PDV, controle e fechamento de caixa, bloco de notas e agentes integrados (**Ploutos AI** & **Drop Converse AI**). | `PHP` `Laravel` `MySQL` `AI APIs` | Ativo |
+| **WebytePay** | Gateway de pagamentos escalável (Pix instantâneo, Cartão e Criptomoedas) com liquidação e conciliação em tempo real. | `PHP` `Laravel` `TypeScript` `Web3` | Em Produção |
+| **Lynxite** | Robô e agente de automação inteligente voltado a fluxos operacionais, produtividade e monitoramento. | `PHP` `TypeScript` `API REST` | Ativo |
+| **Street Dog Coin** | Iniciativa descentralizada na Web3 voltada a impacto social e engajamento comunitário. | `Solidity` `Smart Contracts` `DeFi` | Ativo |
 
 ---
 
