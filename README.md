@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi, my name is Júnior Alves.👋
+<!-- Banner Hero / Background do Ecossistema Drop & Webyte -->
+<img src="home.jpeg" alt="Drop - Licenciamento como Filosofia" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+
+<br />
+
+# Hi, my name is Júnior Alves👋
 ### **Founder & Full Stack Software Engineer** | **Retail Tech, Fintech & Distributed Systems**
 
+[![Stars](https://img.shields.io/badge/Estrelas-10%20★-yellow?style=for-the-badge&logo=github&logoColor=black)](#-projetos-em-destaque)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/júnior-alves-162161208)
 [![Website](https://img.shields.io/badge/WebyteHub-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webytehub.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7030-6178)
@@ -34,14 +40,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- Gateways Atuais -->
+<!-- Gateways & Vendas -->
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
 &nbsp;
 [![WebytePay](https://img.shields.io/badge/WebytePay-0070F3?style=for-the-badge&logo=cashapp&logoColor=white)](#-projetos-em-destaque)
 &nbsp;
 [![iFood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.ifood.com.br)
 &nbsp;
-<!-- Em Breve -->
+<!-- Em Breve / Roadmap -->
 [![99Food / 99](https://img.shields.io/badge/99_(Roadmap)-FF9600?style=for-the-badge&logo=target&logoColor=white)](#)
 &nbsp;
 [![Keeta](https://img.shields.io/badge/Keeta_(Roadmap)-00C853?style=for-the-badge&logo=fastlane&logoColor=white)](#)
@@ -52,7 +58,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Sobre Mim
 
-Sou fundador e engenheiro de software Full Stack especializado em soluções corporativas para comércio, automação comercial e infraestrutura financeira. Desenvolvo sistemas tolerantes a falhas, com forte controle de concorrência, multi-tenancy estrito e comunicação em rede local/cloud.
+Sou fundador e engenheiro de software Full Stack especializado em soluções corporativas para comércio, automação comercial e infraestrutura financeira. Desenvolvo sistemas tolerantes a falhas, com forte controle de concorrência, isolamento multi-tenant rigoroso e comunicação em rede local/cloud.
 
 - 🛒 **PloutosLedger (Ecossistema Drop):** Retaguarda e PDV comercial on-premise/cloud. Arquitetura desenhada para uma instalação dedicada por loja, multi-tenancy rigoroso com isolamento por `user_id` em mais de 46 tabelas, automação de migração idempotente e mensageria fiscal (NFC-e / SEFAZ).
 - 💳 **WebytePay & Stripe:** Infraestrutura de processamento de pagamentos com liquidação em tempo real, suporte nativo a Pix dinâmico, cartões e conciliação financeira automatizada.
