@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **juniorwebyte/juniorwebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Olá, eu sou o Júnior Alves 👋
+# Hi, my name is Júnior Alves.👋
 ### **Founder & Full Stack Software Engineer** | **Retail Tech, Fintech & Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/júnior-alves-162161208)
