@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- Banner Hero Animado do Ecossistema Drop & Webyte (Armazenado na raiz do repositório) -->
-<img src="home.gif" alt="Drop - Licenciamento como Filosofia" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); margin-bottom: 20px;" />
+<!-- Banner Hero / Background do Ecossistema Drop & Webyte -->
+<img src="home.jpeg" alt="Drop - Licenciamento como Filosofia" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); margin-bottom: 20px;" />
 
 <br />
 
-# Olá, eu sou o Júnior Alves 👋
+# Hi, my name is Júnior Alves👋
 ### **Founder & Full Stack Software Engineer** | **Retail Tech, Fintech & Distributed Systems**
 
 [![Stars](https://img.shields.io/badge/Estrelas-10%20★-yellow?style=for-the-badge&logo=github&logoColor=black)](#-projetos-em-destaque)
